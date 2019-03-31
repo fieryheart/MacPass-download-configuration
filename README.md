@@ -2,7 +2,7 @@
 
 ## MacPass介绍
 MacPass是基于KeePass的原生macOS的密码管理软件，兼容KeePass，可使用.kdb文件。
-我安装的MacPass是
+我安装的MacPass是0.7.7
 
 ## MacPass的github链接
 https://github.com/MacPass/MacPass
